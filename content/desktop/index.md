@@ -9,3 +9,6 @@ children:
   - /contributing-and-collaborating-using-github-desktop
 ---
 
+$ ssh-keygen -t ed25519 -C "shendrex@gmail.com"
+
+
